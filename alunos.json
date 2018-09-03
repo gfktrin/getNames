@@ -1,0 +1,5112 @@
+[
+  {
+    "extraction_method": "stream",
+    "top": 0.0,
+    "left": 0.0,
+    "width": 436.79998779296875,
+    "height": 753.2999877929688,
+    "data": [
+      [
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 76.35,
+          "left": 265.8,
+          "width": 61.79001235961914,
+          "height": 7.349999904632568,
+          "text": "BSI - 2018.1"
+        }
+      ],
+      [
+        {
+          "top": 91.32,
+          "left": 56.1,
+          "width": 26.41424560546875,
+          "height": 6.679999828338623,
+          "text": "Num."
+        },
+        {
+          "top": 91.35,
+          "left": 96.1,
+          "width": 49.89350128173828,
+          "height": 7.349999904632568,
+          "text": "Matrícula"
+        },
+        {
+          "top": 91.35,
+          "left": 158.4,
+          "width": 31.099998474121094,
+          "height": 7.349999904632568,
+          "text": "Aluno"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 106.53,
+          "left": 65.8,
+          "width": 7.014244079589844,
+          "height": 6.070000171661377,
+          "text": "1"
+        },
+        {
+          "top": 106.23,
+          "left": 86.8,
+          "width": 234.62001037597656,
+          "height": 6.670000076293945,
+          "text": "20122210025 Airton de Oliveira dos Reis Junior"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 120.73,
+          "left": 65.8,
+          "width": 7.014244079589844,
+          "height": 6.070000171661377,
+          "text": "2"
+        },
+        {
+          "top": 120.53,
+          "left": 86.8,
+          "width": 204.1899871826172,
+          "height": 6.670000076293945,
+          "text": "20132210029 Alexandre Patriota de Lima"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 135.03,
+          "left": 65.8,
+          "width": 7.014244079589844,
+          "height": 6.070000171661377,
+          "text": "3"
+        },
+        {
+          "top": 134.73,
+          "left": 86.8,
+          "width": 223.50999450683594,
+          "height": 6.670000076293945,
+          "text": "20122210029 Alexsander Nolasco da Silveira"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 149.23,
+          "left": 65.8,
+          "width": 7.014244079589844,
+          "height": 6.070000171661377,
+          "text": "4"
+        },
+        {
+          "top": 148.93,
+          "left": 86.8,
+          "width": 201.6999969482422,
+          "height": 6.670000076293945,
+          "text": "20101210019 Alice da Fonseca Monteiro"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 163.43,
+          "left": 65.8,
+          "width": 7.014244079589844,
+          "height": 6.070000171661377,
+          "text": "5"
+        },
+        {
+          "top": 163.23,
+          "left": 86.8,
+          "width": 210.11000061035156,
+          "height": 6.670000076293945,
+          "text": "20102210001 Aline Sales da Silva Guedes"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 177.64,
+          "left": 65.8,
+          "width": 7.014244079589844,
+          "height": 6.070000171661377,
+          "text": "6"
+        },
+        {
+          "top": 177.43,
+          "left": 86.8,
+          "width": 215.41000366210938,
+          "height": 6.670000076293945,
+          "text": "20152210012 ALAN LONES DOS SANTOS"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 191.93,
+          "left": 65.8,
+          "width": 7.014244079589844,
+          "height": 6.070000171661377,
+          "text": "7"
+        },
+        {
+          "top": 191.63,
+          "left": 86.8,
+          "width": 350.0,
+          "height": 6.670000076293945,
+          "text": "20161210010 ALEXANDRE ALVES DOS SANTOS ROTHIER DUARTE"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 206.14,
+          "left": 65.8,
+          "width": 7.014244079589844,
+          "height": 6.070000171661377,
+          "text": "8"
+        },
+        {
+          "top": 205.83,
+          "left": 86.8,
+          "width": 342.7900085449219,
+          "height": 6.670000076293945,
+          "text": "20172210034 ALEXANDRE FERNANDO CHAGAS BRAGA BORGES"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 220.34,
+          "left": 65.8,
+          "width": 7.014244079589844,
+          "height": 6.070000171661377,
+          "text": "9"
+        },
+        {
+          "top": 220.13,
+          "left": 86.8,
+          "width": 209.82998657226562,
+          "height": 6.670000076293945,
+          "text": "20172210015 ALLAN ALFENA DE SOUZA"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 234.64,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "10"
+        },
+        {
+          "top": 234.33,
+          "left": 86.8,
+          "width": 285.3800048828125,
+          "height": 6.670000076293945,
+          "text": "20181210028 ALLAN CHRISTIAN DE FREITAS BORGES"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 248.84,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "11"
+        },
+        {
+          "top": 248.53,
+          "left": 86.8,
+          "width": 312.3899841308594,
+          "height": 6.670000076293945,
+          "text": "20151210023 ALLAN DOS SANTOS MAGALHAES DE SOUSA"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 263.03,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "12"
+        },
+        {
+          "top": 262.83,
+          "left": 86.8,
+          "width": 278.0899963378906,
+          "height": 6.670000076293945,
+          "text": "20151210018 ANA BEATRIZ VALENTINA VIEIRA NOVO"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 277.34,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "13"
+        },
+        {
+          "top": 277.03,
+          "left": 86.8,
+          "width": 225.77999877929688,
+          "height": 6.670000076293945,
+          "text": "20181210027 ANA JULIA BORGES DA SILVA"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 291.53,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "14"
+        },
+        {
+          "top": 291.23,
+          "left": 86.8,
+          "width": 286.9200134277344,
+          "height": 6.670000076293945,
+          "text": "20152210036 ANDERSON TAVARES QUEIROZ AFONSO"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 305.73,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "15"
+        },
+        {
+          "top": 305.53,
+          "left": 86.8,
+          "width": 199.19000244140625,
+          "height": 6.670000076293945,
+          "text": "20172210016 ANDRE COSTA DA SILVA"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 319.93,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "16"
+        },
+        {
+          "top": 319.73,
+          "left": 86.8,
+          "width": 214.92001342773438,
+          "height": 6.670000076293945,
+          "text": "20171210025 ANDRE LUIZ REIS COPELLI"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 334.23,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "17"
+        },
+        {
+          "top": 333.93,
+          "left": 86.8,
+          "width": 265.6400146484375,
+          "height": 6.670000076293945,
+          "text": "20172210039 ANDRE VASCONCELOS CAVALCANTI"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 348.43,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "18"
+        },
+        {
+          "top": 348.13,
+          "left": 86.8,
+          "width": 211.88998413085938,
+          "height": 6.670000076293945,
+          "text": "20181210029 ANDRE VILARDO CAMPOS"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 362.64,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "19"
+        },
+        {
+          "top": 362.43,
+          "left": 86.8,
+          "width": 217.94000244140625,
+          "height": 6.670000076293945,
+          "text": "20141210028 ANDRESSA ALVES GUERRA"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 376.93,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "20"
+        },
+        {
+          "top": 376.63,
+          "left": 86.8,
+          "width": 223.6400146484375,
+          "height": 6.670000076293945,
+          "text": "20152210013 ANGELLUS PEREIRA PAIXAO"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 391.14,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "21"
+        },
+        {
+          "top": 390.83,
+          "left": 86.8,
+          "width": 295.7900085449219,
+          "height": 6.670000076293945,
+          "text": "20181210005 ANNA BEATRIZ CARDOSO ALVES ALMEIDA"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 405.33,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "22"
+        },
+        {
+          "top": 405.13,
+          "left": 86.8,
+          "width": 244.6300048828125,
+          "height": 6.670000076293945,
+          "text": "20151210029 ANTONIO ANDRE LIMA MOREIRA"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 419.64,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "23"
+        },
+        {
+          "top": 419.33,
+          "left": 86.8,
+          "width": 190.1599884033203,
+          "height": 6.670000076293945,
+          "text": "20132210017 Arthur de Oliveira Lopes"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 433.83,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "24"
+        },
+        {
+          "top": 433.53,
+          "left": 86.8,
+          "width": 171.239990234375,
+          "height": 6.670000076293945,
+          "text": "20122210006 Arthur Ferreira Pinto"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 448.04,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "25"
+        },
+        {
+          "top": 447.83,
+          "left": 86.8,
+          "width": 285.6600036621094,
+          "height": 6.670000076293945,
+          "text": "20171210023 ARLINDO DE SOUZA DE OLIVEIRA FILHO"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 462.23,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "26"
+        },
+        {
+          "top": 462.03,
+          "left": 86.8,
+          "width": 249.66000366210938,
+          "height": 6.670000076293945,
+          "text": "20151210012 ARY AKIM PEIXOTO DOS SANTOS"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 476.54,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "27"
+        },
+        {
+          "top": 476.23,
+          "left": 86.8,
+          "width": 208.47999572753906,
+          "height": 6.670000076293945,
+          "text": "20122210001 Augusto Ladeira Guimarães"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 490.73,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "28"
+        },
+        {
+          "top": 490.43,
+          "left": 86.8,
+          "width": 234.82000732421875,
+          "height": 6.670000076293945,
+          "text": "20171210014 AUGUSTO HEIL DE ASSUNCAO"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 504.93,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "29"
+        },
+        {
+          "top": 504.73,
+          "left": 86.8,
+          "width": 210.6300048828125,
+          "height": 6.670000076293945,
+          "text": "20171210036 BARBARA BEATO RIBEIRO"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 519.23,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "30"
+        },
+        {
+          "top": 518.93,
+          "left": 86.8,
+          "width": 256.1000061035156,
+          "height": 6.670000076293945,
+          "text": "20121210034 Bernardo Roedel Coimbra de Gouvêa"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 533.43,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "31"
+        },
+        {
+          "top": 533.13,
+          "left": 86.8,
+          "width": 317.3500061035156,
+          "height": 6.670000076293945,
+          "text": "20162210039 BEATRIZ BARRETO VIANNA E SILVA CORONHA"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 547.64,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "32"
+        },
+        {
+          "top": 547.43,
+          "left": 86.8,
+          "width": 231.20001220703125,
+          "height": 6.670000076293945,
+          "text": "20171210010 BEATRIZ DE CARVALHO FELIX"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 561.84,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "33"
+        },
+        {
+          "top": 561.63,
+          "left": 86.8,
+          "width": 219.6300048828125,
+          "height": 6.670000076293945,
+          "text": "20142210023 BERNARDO CIRNE SEVERO"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 576.14,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "34"
+        },
+        {
+          "top": 575.83,
+          "left": 86.8,
+          "width": 174.22999572753906,
+          "height": 6.670000076293945,
+          "text": "20111210006 Bianca de Paiva Orsi"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 590.34,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "35"
+        },
+        {
+          "top": 590.03,
+          "left": 86.8,
+          "width": 207.6799774169922,
+          "height": 6.670000076293945,
+          "text": "20171210002 Bruno Maciel Pinto Da Silva"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 604.53,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "36"
+        },
+        {
+          "top": 604.33,
+          "left": 86.8,
+          "width": 226.00999450683594,
+          "height": 6.670000076293945,
+          "text": "20132210032 Bruno Sales Domingos da Silva"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 618.84,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "37"
+        },
+        {
+          "top": 618.53,
+          "left": 86.8,
+          "width": 267.55999755859375,
+          "height": 6.670000076293945,
+          "text": "20171210035 BRENO COSTA DA SILVA FILGUEIRAS"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 633.03,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "38"
+        },
+        {
+          "top": 632.73,
+          "left": 86.8,
+          "width": 201.38998413085938,
+          "height": 6.670000076293945,
+          "text": "20172210006 BRENO DA SILVA SOUSA"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 647.23,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "39"
+        },
+        {
+          "top": 647.03,
+          "left": 86.8,
+          "width": 215.47000122070312,
+          "height": 6.670000076293945,
+          "text": "20172210018 BRENO DOS SANTOS MAIA"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 661.53,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "40"
+        },
+        {
+          "top": 661.23,
+          "left": 86.8,
+          "width": 260.4700012207031,
+          "height": 6.670000076293945,
+          "text": "20161210005 BRENO PHILLIP MENDES BARONTE"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 675.73,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "41"
+        },
+        {
+          "top": 675.43,
+          "left": 86.8,
+          "width": 193.60000610351562,
+          "height": 6.670000076293945,
+          "text": "20181210016 BRENO RIBEIRO CANO"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 689.93,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "42"
+        },
+        {
+          "top": 689.73,
+          "left": 86.8,
+          "width": 217.61000061035156,
+          "height": 6.670000076293945,
+          "text": "20161210022 BRUNO ALVES WILDHAGEN"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 704.14,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "43"
+        },
+        {
+          "top": 703.93,
+          "left": 86.8,
+          "width": 261.79998779296875,
+          "height": 6.670000076293945,
+          "text": "20172210021 BRUNO ANGELO SEBBEN MARINHO"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 718.43,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "44"
+        },
+        {
+          "top": 718.13,
+          "left": 86.8,
+          "width": 215.92001342773438,
+          "height": 6.670000076293945,
+          "text": "20142210008 BRUNO BARBOSA FRANCO"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 732.64,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "45"
+        },
+        {
+          "top": 732.33,
+          "left": 86.8,
+          "width": 206.41000366210938,
+          "height": 6.670000076293945,
+          "text": "20141210017 BRUNO BUCK BRIGAGAO"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ],
+      [
+        {
+          "top": 746.84,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "46"
+        },
+        {
+          "top": 746.63,
+          "left": 86.8,
+          "width": 307.7099914550781,
+          "height": 6.670000076293945,
+          "text": "20171210037 BRUNO CESAR BARREIROS ALVES PEREIRA"
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        },
+        {
+          "top": 0.0,
+          "left": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "text": ""
+        }
+      ]
+    ]
+  },
+  {
+    "extraction_method": "stream",
+    "top": 0.0,
+    "left": 0.0,
+    "width": 515.3200073242188,
+    "height": 751.7000122070312,
+    "data": [
+      [
+        {
+          "top": 76.53,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "47"
+        },
+        {
+          "top": 76.23,
+          "left": 86.8,
+          "width": 204.3199920654297,
+          "height": 6.670000076293945,
+          "text": "20142210012 BRUNO FERREIRA BRUM"
+        }
+      ],
+      [
+        {
+          "top": 90.73,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "48"
+        },
+        {
+          "top": 90.53,
+          "left": 86.8,
+          "width": 317.05999755859375,
+          "height": 6.670000076293945,
+          "text": "20132210024 Carlos Humberto Castello Branco Gonçalves Filho"
+        }
+      ],
+      [
+        {
+          "top": 105.03,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "49"
+        },
+        {
+          "top": 104.73,
+          "left": 86.8,
+          "width": 229.7799835205078,
+          "height": 6.670000076293945,
+          "text": "20161210020 Cayo Mauricio Pereira de Souza"
+        }
+      ],
+      [
+        {
+          "top": 119.23,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "50"
+        },
+        {
+          "top": 118.93,
+          "left": 86.8,
+          "width": 319.7099914550781,
+          "height": 6.670000076293945,
+          "text": "20162210023 CAIO DE ALMEIDA EPPENSTEIN DE CARVALHO"
+        }
+      ],
+      [
+        {
+          "top": 133.43,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "51"
+        },
+        {
+          "top": 133.23,
+          "left": 86.8,
+          "width": 264.5199890136719,
+          "height": 6.670000076293945,
+          "text": "20151210005 CARLOS LESSA DE VASCONCELLOS"
+        }
+      ],
+      [
+        {
+          "top": 147.73,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "52"
+        },
+        {
+          "top": 147.43,
+          "left": 86.8,
+          "width": 278.9700012207031,
+          "height": 6.670000076293945,
+          "text": "20141210032 CAROLINA DE CARVALHO MARCHIORO"
+        }
+      ],
+      [
+        {
+          "top": 161.93,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "53"
+        },
+        {
+          "top": 161.63,
+          "left": 86.8,
+          "width": 273.2300109863281,
+          "height": 6.670000076293945,
+          "text": "20172210041 CAROLINA FANTINI ROCHA DE SOUZA"
+        }
+      ],
+      [
+        {
+          "top": 176.14,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "54"
+        },
+        {
+          "top": 175.93,
+          "left": 86.8,
+          "width": 264.3800048828125,
+          "height": 6.670000076293945,
+          "text": "20151210013 CASSIO HENRIQUE CABRAL CIDRINI"
+        }
+      ],
+      [
+        {
+          "top": 190.34,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "55"
+        },
+        {
+          "top": 190.13,
+          "left": 86.8,
+          "width": 180.11997985839844,
+          "height": 6.670000076293945,
+          "text": "20131210038 Cibele Poubel Portella"
+        }
+      ],
+      [
+        {
+          "top": 204.64,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "56"
+        },
+        {
+          "top": 204.33,
+          "left": 86.8,
+          "width": 219.72999572753906,
+          "height": 6.670000076293945,
+          "text": "20112210008 Claudio Ribeiro Dietrich Júnior"
+        }
+      ],
+      [
+        {
+          "top": 218.84,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "57"
+        },
+        {
+          "top": 218.53,
+          "left": 86.8,
+          "width": 180.87998962402344,
+          "height": 6.670000076293945,
+          "text": "20132210028 Daniel da Cruz Corrêa"
+        }
+      ],
+      [
+        {
+          "top": 233.03,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "58"
+        },
+        {
+          "top": 232.83,
+          "left": 86.8,
+          "width": 209.5299835205078,
+          "height": 6.670000076293945,
+          "text": "20132210030 Daniel Quintana de Andrade"
+        }
+      ],
+      [
+        {
+          "top": 247.34,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "59"
+        },
+        {
+          "top": 247.03,
+          "left": 86.8,
+          "width": 247.61000061035156,
+          "height": 6.670000076293945,
+          "text": "20131210026 Danielle Taborda de Almeida Correa"
+        }
+      ],
+      [
+        {
+          "top": 261.53,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "60"
+        },
+        {
+          "top": 261.23,
+          "left": 86.8,
+          "width": 166.70999145507812,
+          "height": 6.670000076293945,
+          "text": "20131210013 Davi Anjos de Faria"
+        }
+      ],
+      [
+        {
+          "top": 275.73,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "61"
+        },
+        {
+          "top": 275.53,
+          "left": 86.8,
+          "width": 232.26998901367188,
+          "height": 6.670000076293945,
+          "text": "20171210038 DANIEL COELHO DE OLIVEIRA"
+        }
+      ],
+      [
+        {
+          "top": 290.03,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "62"
+        },
+        {
+          "top": 289.73,
+          "left": 86.8,
+          "width": 224.17001342773438,
+          "height": 6.670000076293945,
+          "text": "20172210002 DANIEL CORDEIRO PEREIRA"
+        }
+      ],
+      [
+        {
+          "top": 304.23,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "63"
+        },
+        {
+          "top": 303.93,
+          "left": 86.8,
+          "width": 219.70001220703125,
+          "height": 6.670000076293945,
+          "text": "20162210010 DANIEL OLIVEIRA ANDRADE"
+        }
+      ],
+      [
+        {
+          "top": 318.43,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "64"
+        },
+        {
+          "top": 318.23,
+          "left": 86.8,
+          "width": 225.77999877929688,
+          "height": 6.670000076293945,
+          "text": "20141210031 DANIEL PADRENOSSO GOUY"
+        }
+      ],
+      [
+        {
+          "top": 332.64,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "65"
+        },
+        {
+          "top": 332.43,
+          "left": 86.8,
+          "width": 205.77999877929688,
+          "height": 6.670000076293945,
+          "text": "20172210019 DANIEL SANTOS DE LIMA"
+        }
+      ],
+      [
+        {
+          "top": 346.93,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "66"
+        },
+        {
+          "top": 346.63,
+          "left": 86.8,
+          "width": 261.9800109863281,
+          "height": 6.670000076293945,
+          "text": "20151210003 DANIEL VILLACA DE OLIVEIRA SILVA"
+        }
+      ],
+      [
+        {
+          "top": 361.14,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "67"
+        },
+        {
+          "top": 360.83,
+          "left": 86.8,
+          "width": 217.29000854492188,
+          "height": 6.670000076293945,
+          "text": "20171210009 DAVI GERVASIO COUTINHO"
+        }
+      ],
+      [
+        {
+          "top": 375.33,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "68"
+        },
+        {
+          "top": 375.13,
+          "left": 86.8,
+          "width": 218.08999633789062,
+          "height": 6.670000076293945,
+          "text": "20181210038 DAVSON OLIVEIRA SANTOS"
+        }
+      ],
+      [
+        {
+          "top": 389.64,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "69"
+        },
+        {
+          "top": 389.33,
+          "left": 86.8,
+          "width": 193.74000549316406,
+          "height": 6.670000076293945,
+          "text": "20111210012 Diogo Ferreira de Freitas"
+        }
+      ],
+      [
+        {
+          "top": 403.83,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "70"
+        },
+        {
+          "top": 403.53,
+          "left": 86.8,
+          "width": 205.79000854492188,
+          "height": 6.670000076293945,
+          "text": "20152210007 DIEGO BARCANTE PIRES"
+        }
+      ],
+      [
+        {
+          "top": 418.04,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "71"
+        },
+        {
+          "top": 417.83,
+          "left": 86.8,
+          "width": 314.4599914550781,
+          "height": 6.670000076293945,
+          "text": "20162210005 DOUGLAS QUINTANILHA BARBOSA FERREIRA"
+        }
+      ],
+      [
+        {
+          "top": 432.23,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "72"
+        },
+        {
+          "top": 432.03,
+          "left": 86.8,
+          "width": 218.67999267578125,
+          "height": 6.670000076293945,
+          "text": "20181210036 EDUARDO COELHO E SILVA"
+        }
+      ],
+      [
+        {
+          "top": 446.54,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "73"
+        },
+        {
+          "top": 446.23,
+          "left": 86.8,
+          "width": 229.67999267578125,
+          "height": 6.670000076293945,
+          "text": "20181210002 EDUARDO MATTOS BARBOZA"
+        }
+      ],
+      [
+        {
+          "top": 460.73,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "74"
+        },
+        {
+          "top": 460.43,
+          "left": 86.8,
+          "width": 271.7599792480469,
+          "height": 6.670000076293945,
+          "text": "20172210028 ELMO SANCHES GUIMARAES JUNIOR"
+        }
+      ],
+      [
+        {
+          "top": 474.93,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "75"
+        },
+        {
+          "top": 474.73,
+          "left": 86.8,
+          "width": 212.6599884033203,
+          "height": 6.670000076293945,
+          "text": "20122210020 Erick Nascimento de Oliveira"
+        }
+      ],
+      [
+        {
+          "top": 489.23,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "76"
+        },
+        {
+          "top": 488.93,
+          "left": 86.8,
+          "width": 176.42999267578125,
+          "height": 6.670000076293945,
+          "text": "20151210028 ERICK JOE ARAUJO"
+        }
+      ],
+      [
+        {
+          "top": 503.43,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "77"
+        },
+        {
+          "top": 503.13,
+          "left": 86.8,
+          "width": 226.98001098632812,
+          "height": 6.670000076293945,
+          "text": "20152210034 FABIO DE MORAES PORTELA"
+        }
+      ],
+      [
+        {
+          "top": 517.64,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "78"
+        },
+        {
+          "top": 517.43,
+          "left": 86.8,
+          "width": 214.47999572753906,
+          "height": 6.670000076293945,
+          "text": "20122210027 Fernando Cavalcanti Ferreira"
+        }
+      ],
+      [
+        {
+          "top": 531.93,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "79"
+        },
+        {
+          "top": 531.63,
+          "left": 86.8,
+          "width": 205.38999938964844,
+          "height": 6.670000076293945,
+          "text": "20181210801 Fernando Medeiros Pereira"
+        }
+      ],
+      [
+        {
+          "top": 546.14,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "80"
+        },
+        {
+          "top": 545.83,
+          "left": 86.8,
+          "width": 233.70999145507812,
+          "height": 6.670000076293945,
+          "text": "20162210032 FELIPE DA SILVA LANCELOTTE"
+        }
+      ],
+      [
+        {
+          "top": 560.34,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "81"
+        },
+        {
+          "top": 560.13,
+          "left": 86.8,
+          "width": 306.5400085449219,
+          "height": 6.670000076293945,
+          "text": "20162210020 FERNANDO COCCO CORDOVIL DE MACEDO"
+        }
+      ],
+      [
+        {
+          "top": 574.53,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "82"
+        },
+        {
+          "top": 574.33,
+          "left": 86.8,
+          "width": 230.38998413085938,
+          "height": 6.670000076293945,
+          "text": "20181210021 FERNANDO DA SILVA SANTOS"
+        }
+      ],
+      [
+        {
+          "top": 588.84,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "83"
+        },
+        {
+          "top": 588.53,
+          "left": 86.8,
+          "width": 269.79998779296875,
+          "height": 6.670000076293945,
+          "text": "20172210029 FERNANDO DEGLE ESPOSTE BRAGA"
+        }
+      ],
+      [
+        {
+          "top": 603.03,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "84"
+        },
+        {
+          "top": 602.73,
+          "left": 86.8,
+          "width": 321.4200134277344,
+          "height": 6.670000076293945,
+          "text": "20161210002 FILIPE ALBUQUERQUE BRAUNS CAZELGRANDI"
+        }
+      ],
+      [
+        {
+          "top": 617.23,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "85"
+        },
+        {
+          "top": 617.03,
+          "left": 86.8,
+          "width": 229.32000732421875,
+          "height": 6.670000076293945,
+          "text": "20141210005 FILIPE ESTEVES GONCALVES"
+        }
+      ],
+      [
+        {
+          "top": 631.53,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "86"
+        },
+        {
+          "top": 631.23,
+          "left": 86.8,
+          "width": 244.5,
+          "height": 6.670000076293945,
+          "text": "20181210033 FLAVIA EVELYN BENTO DE PRET"
+        }
+      ],
+      [
+        {
+          "top": 645.73,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "87"
+        },
+        {
+          "top": 645.43,
+          "left": 86.8,
+          "width": 428.5199890136719,
+          "height": 6.670000076293945,
+          "text": "20181210032 FRANCISCO AUGUSTO DE SOUZA NIEDZIELSKI MACHADO ANDREA"
+        }
+      ],
+      [
+        {
+          "top": 659.93,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "88"
+        },
+        {
+          "top": 659.73,
+          "left": 86.8,
+          "width": 294.1399841308594,
+          "height": 6.670000076293945,
+          "text": "20181210034 FREDERICO RAMALHO DA SILVA E SOUZA"
+        }
+      ],
+      [
+        {
+          "top": 674.23,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "89"
+        },
+        {
+          "top": 673.93,
+          "left": 86.8,
+          "width": 240.6599884033203,
+          "height": 6.670000076293945,
+          "text": "20132210015 Gabriel Castrillon Silva dos Santos"
+        }
+      ],
+      [
+        {
+          "top": 688.43,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "90"
+        },
+        {
+          "top": 688.13,
+          "left": 86.8,
+          "width": 170.1699981689453,
+          "height": 6.670000076293945,
+          "text": "20121210014 Gabriel Diniz Tormin"
+        }
+      ],
+      [
+        {
+          "top": 702.64,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "91"
+        },
+        {
+          "top": 702.43,
+          "left": 86.8,
+          "width": 183.6699981689453,
+          "height": 6.670000076293945,
+          "text": "20131210023 Gabriel Morais Teixeira"
+        }
+      ],
+      [
+        {
+          "top": 716.84,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "92"
+        },
+        {
+          "top": 716.63,
+          "left": 86.8,
+          "width": 207.11000061035156,
+          "height": 6.670000076293945,
+          "text": "20132210019 Gabriella da Silva de Souza"
+        }
+      ],
+      [
+        {
+          "top": 731.14,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "93"
+        },
+        {
+          "top": 730.83,
+          "left": 86.8,
+          "width": 286.30999755859375,
+          "height": 6.670000076293945,
+          "text": "20151210025 GABRIEL BUZAK ZAMPIERI DE AZEVEDO"
+        }
+      ],
+      [
+        {
+          "top": 745.34,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "94"
+        },
+        {
+          "top": 745.03,
+          "left": 86.8,
+          "width": 193.79998779296875,
+          "height": 6.670000076293945,
+          "text": "20152210008 GABRIEL CABRAL REIS"
+        }
+      ]
+    ]
+  },
+  {
+    "extraction_method": "stream",
+    "top": 0.0,
+    "left": 0.0,
+    "width": 424.4499816894531,
+    "height": 751.7000122070312,
+    "data": [
+      [
+        {
+          "top": 76.53,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "95"
+        },
+        {
+          "top": 76.23,
+          "left": 86.8,
+          "width": 280.3800048828125,
+          "height": 6.670000076293945,
+          "text": "20161210018 GABRIEL FUMYA KANAZAWA TRINDADE"
+        }
+      ],
+      [
+        {
+          "top": 90.73,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "96"
+        },
+        {
+          "top": 90.53,
+          "left": 86.8,
+          "width": 239.39999389648438,
+          "height": 6.670000076293945,
+          "text": "20172210022 GABRIEL JANSEN DE MENEZES"
+        }
+      ],
+      [
+        {
+          "top": 105.03,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "97"
+        },
+        {
+          "top": 104.73,
+          "left": 86.8,
+          "width": 227.8800048828125,
+          "height": 6.670000076293945,
+          "text": "20162210015 GABRIEL NOGUEIRA RIBEIRO"
+        }
+      ],
+      [
+        {
+          "top": 119.23,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "98"
+        },
+        {
+          "top": 118.93,
+          "left": 86.8,
+          "width": 253.8000030517578,
+          "height": 6.670000076293945,
+          "text": "20132210013 Getulio Pereira de Vasconcellos Filho"
+        }
+      ],
+      [
+        {
+          "top": 133.43,
+          "left": 63.0,
+          "width": 12.604240417480469,
+          "height": 6.070000171661377,
+          "text": "99"
+        },
+        {
+          "top": 133.23,
+          "left": 86.8,
+          "width": 329.1499938964844,
+          "height": 6.670000076293945,
+          "text": "20162210035 GERSON AUGUSTO MENDONCA DA CONCEICAO"
+        }
+      ],
+      [
+        {
+          "top": 147.73,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "100"
+        },
+        {
+          "top": 147.43,
+          "left": 86.8,
+          "width": 239.3999786376953,
+          "height": 6.670000076293945,
+          "text": "20132210025 Géssica Maria Fontenele Torquato"
+        }
+      ],
+      [
+        {
+          "top": 161.93,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "101"
+        },
+        {
+          "top": 161.63,
+          "left": 86.8,
+          "width": 322.3599853515625,
+          "height": 6.670000076293945,
+          "text": "20162210029 GUILHERME DE CARVALHO CORREIA DE MELO"
+        }
+      ],
+      [
+        {
+          "top": 176.14,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "102"
+        },
+        {
+          "top": 175.93,
+          "left": 86.8,
+          "width": 223.1300048828125,
+          "height": 6.670000076293945,
+          "text": "20181210009 GUILHERME MORIAKI FUGIY"
+        }
+      ],
+      [
+        {
+          "top": 190.34,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "103"
+        },
+        {
+          "top": 190.13,
+          "left": 86.8,
+          "width": 258.0799865722656,
+          "height": 6.670000076293945,
+          "text": "20161210030 GUILHERME TEL SOUZA FERREIRA"
+        }
+      ],
+      [
+        {
+          "top": 204.64,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "104"
+        },
+        {
+          "top": 204.33,
+          "left": 86.8,
+          "width": 230.8699951171875,
+          "height": 6.670000076293945,
+          "text": "20181210004 GUSTAVO CARMO DORNELAS"
+        }
+      ],
+      [
+        {
+          "top": 218.84,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "105"
+        },
+        {
+          "top": 218.53,
+          "left": 86.8,
+          "width": 242.36000061035156,
+          "height": 6.670000076293945,
+          "text": "20171210015 GUSTAVO NASCIMENTO GROTH"
+        }
+      ],
+      [
+        {
+          "top": 233.03,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "106"
+        },
+        {
+          "top": 232.83,
+          "left": 86.8,
+          "width": 203.29998779296875,
+          "height": 6.670000076293945,
+          "text": "20172210007 HELENA COUTRIN WADY"
+        }
+      ],
+      [
+        {
+          "top": 247.34,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "107"
+        },
+        {
+          "top": 247.03,
+          "left": 86.8,
+          "width": 283.17999267578125,
+          "height": 6.670000076293945,
+          "text": "20181210035 HENRIQUE BORGES DE ALMEIDA FILHO"
+        }
+      ],
+      [
+        {
+          "top": 261.53,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "108"
+        },
+        {
+          "top": 261.23,
+          "left": 86.8,
+          "width": 247.8699951171875,
+          "height": 6.670000076293945,
+          "text": "20172210040 HENRIQUE SOARES RODRIGUES"
+        }
+      ],
+      [
+        {
+          "top": 275.73,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "109"
+        },
+        {
+          "top": 275.53,
+          "left": 86.8,
+          "width": 262.510009765625,
+          "height": 6.670000076293945,
+          "text": "20181210022 HERNAN AUGUSTO SILVA MATIELLO"
+        }
+      ],
+      [
+        {
+          "top": 290.03,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "110"
+        },
+        {
+          "top": 289.73,
+          "left": 86.8,
+          "width": 240.69000244140625,
+          "height": 6.670000076293945,
+          "text": "20142210020 HIAGO DE OLIVEIRA CARVALHO"
+        }
+      ],
+      [
+        {
+          "top": 304.23,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "111"
+        },
+        {
+          "top": 303.93,
+          "left": 86.8,
+          "width": 325.3500061035156,
+          "height": 6.670000076293945,
+          "text": "20131210005 HUGO JOSE DOS SANTOS PEREIRA BERTOCHE"
+        }
+      ],
+      [
+        {
+          "top": 318.43,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "112"
+        },
+        {
+          "top": 318.23,
+          "left": 86.8,
+          "width": 207.14999389648438,
+          "height": 6.670000076293945,
+          "text": "20141210008 HUGO MOURAO DA SILVA"
+        }
+      ],
+      [
+        {
+          "top": 332.64,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "113"
+        },
+        {
+          "top": 332.43,
+          "left": 86.8,
+          "width": 181.010009765625,
+          "height": 6.670000076293945,
+          "text": "20131210008 Ian Andrade Obraczka"
+        }
+      ],
+      [
+        {
+          "top": 346.93,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "114"
+        },
+        {
+          "top": 346.63,
+          "left": 86.8,
+          "width": 228.63999938964844,
+          "height": 6.670000076293945,
+          "text": "20131210033 Igor Balteiro Pereira de Campos"
+        }
+      ],
+      [
+        {
+          "top": 361.14,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "115"
+        },
+        {
+          "top": 360.83,
+          "left": 86.8,
+          "width": 199.48001098632812,
+          "height": 6.670000076293945,
+          "text": "20122210008 Igor dos Santos de Castro"
+        }
+      ],
+      [
+        {
+          "top": 375.33,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "116"
+        },
+        {
+          "top": 375.13,
+          "left": 86.8,
+          "width": 210.97999572753906,
+          "height": 6.670000076293945,
+          "text": "20172210851 Igor Marracho Carriço Cesar"
+        }
+      ],
+      [
+        {
+          "top": 389.64,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "117"
+        },
+        {
+          "top": 389.33,
+          "left": 86.8,
+          "width": 316.0999755859375,
+          "height": 6.670000076293945,
+          "text": "20162210030 IGHOR GARCIA MESQUITA OSTWALD CORBAL"
+        }
+      ],
+      [
+        {
+          "top": 403.83,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "118"
+        },
+        {
+          "top": 403.53,
+          "left": 86.8,
+          "width": 203.57998657226562,
+          "height": 6.670000076293945,
+          "text": "20142210030 IGOR AUGUSTO PASSOS"
+        }
+      ],
+      [
+        {
+          "top": 418.04,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "119"
+        },
+        {
+          "top": 417.83,
+          "left": 86.8,
+          "width": 286.30999755859375,
+          "height": 6.670000076293945,
+          "text": "20181210025 IGOR FRANKLIN FERREIRA DE QUEIROZ"
+        }
+      ],
+      [
+        {
+          "top": 432.23,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "120"
+        },
+        {
+          "top": 432.03,
+          "left": 86.8,
+          "width": 337.64996337890625,
+          "height": 6.670000076293945,
+          "text": "20171210027 IGOR MATHEUS DE SOUZA FERREIRA DORBACAO"
+        }
+      ],
+      [
+        {
+          "top": 446.54,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "121"
+        },
+        {
+          "top": 446.23,
+          "left": 86.8,
+          "width": 291.010009765625,
+          "height": 6.670000076293945,
+          "text": "20162210017 JASMINE COSTA DO CARMO GUIMARAES"
+        }
+      ],
+      [
+        {
+          "top": 460.73,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "122"
+        },
+        {
+          "top": 460.43,
+          "left": 86.8,
+          "width": 169.21998596191406,
+          "height": 6.670000076293945,
+          "text": "20122210017 Jessica Araújo Leite"
+        }
+      ],
+      [
+        {
+          "top": 474.93,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "123"
+        },
+        {
+          "top": 474.73,
+          "left": 86.8,
+          "width": 238.69000244140625,
+          "height": 6.670000076293945,
+          "text": "20161210015 JEAN CARLOS SILVA DE SOUZA"
+        }
+      ],
+      [
+        {
+          "top": 489.23,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "124"
+        },
+        {
+          "top": 488.93,
+          "left": 86.8,
+          "width": 202.1099853515625,
+          "height": 6.670000076293945,
+          "text": "20181210040 JEFFERSON SILVA FELIX"
+        }
+      ],
+      [
+        {
+          "top": 503.43,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "125"
+        },
+        {
+          "top": 503.13,
+          "left": 86.8,
+          "width": 240.8800048828125,
+          "height": 6.670000076293945,
+          "text": "20171210028 JOAO GABRIEL DE JESUS SILVA"
+        }
+      ],
+      [
+        {
+          "top": 517.64,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "126"
+        },
+        {
+          "top": 517.43,
+          "left": 86.8,
+          "width": 313.4599914550781,
+          "height": 6.670000076293945,
+          "text": "20152210015 JOAO GABRIEL PASSOS COSENDEY BROUCK"
+        }
+      ],
+      [
+        {
+          "top": 531.93,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "127"
+        },
+        {
+          "top": 531.63,
+          "left": 86.8,
+          "width": 251.26998901367188,
+          "height": 6.670000076293945,
+          "text": "20171210008 JOAO LUCAS MATERA MOUTINHO"
+        }
+      ],
+      [
+        {
+          "top": 546.14,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "128"
+        },
+        {
+          "top": 545.83,
+          "left": 86.8,
+          "width": 245.739990234375,
+          "height": 6.670000076293945,
+          "text": "20181210039 JOAO MARCOS QUEIROZ LOPES"
+        }
+      ],
+      [
+        {
+          "top": 560.34,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "129"
+        },
+        {
+          "top": 560.13,
+          "left": 86.8,
+          "width": 221.29000854492188,
+          "height": 6.670000076293945,
+          "text": "20171210022 JOAO PEDRO GIL BRANDAO"
+        }
+      ],
+      [
+        {
+          "top": 574.53,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "130"
+        },
+        {
+          "top": 574.33,
+          "left": 86.8,
+          "width": 236.14999389648438,
+          "height": 6.670000076293945,
+          "text": "20171210021 JOAO PEDRO PORTO CAMPOS"
+        }
+      ],
+      [
+        {
+          "top": 588.84,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "131"
+        },
+        {
+          "top": 588.53,
+          "left": 86.8,
+          "width": 295.5799865722656,
+          "height": 6.670000076293945,
+          "text": "20181210026 JOAO PEDRO SILVA DEZEMBRO LEONELO"
+        }
+      ],
+      [
+        {
+          "top": 603.03,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "132"
+        },
+        {
+          "top": 602.73,
+          "left": 86.8,
+          "width": 191.10000610351562,
+          "height": 6.670000076293945,
+          "text": "20181210020 JOAO PINHEIRO NETO"
+        }
+      ],
+      [
+        {
+          "top": 617.23,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "133"
+        },
+        {
+          "top": 617.03,
+          "left": 86.8,
+          "width": 255.66000366210938,
+          "height": 6.670000076293945,
+          "text": "20181210019 JOAO VICTOR ANTUNES FIGUEIRA"
+        }
+      ],
+      [
+        {
+          "top": 631.53,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "134"
+        },
+        {
+          "top": 631.23,
+          "left": 86.8,
+          "width": 249.64999389648438,
+          "height": 6.670000076293945,
+          "text": "20171210031 JOAO VITOR OLIVEIRA FERREIRA"
+        }
+      ],
+      [
+        {
+          "top": 645.73,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "135"
+        },
+        {
+          "top": 645.43,
+          "left": 86.8,
+          "width": 229.55999755859375,
+          "height": 6.670000076293945,
+          "text": "20171210016 JOAO VITOR SILVA DE SOUSA"
+        }
+      ],
+      [
+        {
+          "top": 659.93,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "136"
+        },
+        {
+          "top": 659.73,
+          "left": 86.8,
+          "width": 241.1599884033203,
+          "height": 6.670000076293945,
+          "text": "20181210023 JONATAN DE SOUZA FREIDMON"
+        }
+      ],
+      [
+        {
+          "top": 674.23,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "137"
+        },
+        {
+          "top": 673.93,
+          "left": 86.8,
+          "width": 318.1499938964844,
+          "height": 6.670000076293945,
+          "text": "20142210029 JONATHAM PETZOLD DE SOUZA DOS SANTOS"
+        }
+      ],
+      [
+        {
+          "top": 688.43,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "138"
+        },
+        {
+          "top": 688.13,
+          "left": 86.8,
+          "width": 272.3599853515625,
+          "height": 6.670000076293945,
+          "text": "20162210001 JONATHAN LUIZ BRAGA DOS SANTOS"
+        }
+      ],
+      [
+        {
+          "top": 702.64,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "139"
+        },
+        {
+          "top": 702.43,
+          "left": 86.8,
+          "width": 269.1499938964844,
+          "height": 6.670000076293945,
+          "text": "20171210006 JORGE AUGUSTO OLIVEIRA BORGES"
+        }
+      ],
+      [
+        {
+          "top": 716.84,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "140"
+        },
+        {
+          "top": 716.63,
+          "left": 86.8,
+          "width": 168.99998474121094,
+          "height": 6.670000076293945,
+          "text": "20122210010 Julia Cortazio Viana"
+        }
+      ],
+      [
+        {
+          "top": 731.14,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "141"
+        },
+        {
+          "top": 730.83,
+          "left": 86.8,
+          "width": 219.4199981689453,
+          "height": 6.670000076293945,
+          "text": "20132210850 Juliana Gonçalves dos Santos"
+        }
+      ],
+      [
+        {
+          "top": 745.34,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "142"
+        },
+        {
+          "top": 745.03,
+          "left": 86.8,
+          "width": 246.3800048828125,
+          "height": 6.670000076293945,
+          "text": "20162210021 JUAN GARCIA TRINDADE E SILVA"
+        }
+      ]
+    ]
+  },
+  {
+    "extraction_method": "stream",
+    "top": 0.0,
+    "left": 0.0,
+    "width": 424.20001220703125,
+    "height": 751.7000122070312,
+    "data": [
+      [
+        {
+          "top": 76.53,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "143"
+        },
+        {
+          "top": 76.23,
+          "left": 86.8,
+          "width": 306.53997802734375,
+          "height": 6.670000076293945,
+          "text": "20172210032 JULIO CESAR GOMES DOS SANTOS JUNIOR"
+        }
+      ],
+      [
+        {
+          "top": 90.73,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "144"
+        },
+        {
+          "top": 90.53,
+          "left": 86.8,
+          "width": 293.97998046875,
+          "height": 6.670000076293945,
+          "text": "20152210004 JULIO CESAR PEREIRA ANDRADE JUNIOR"
+        }
+      ],
+      [
+        {
+          "top": 105.03,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "145"
+        },
+        {
+          "top": 104.73,
+          "left": 86.8,
+          "width": 223.98001098632812,
+          "height": 6.670000076293945,
+          "text": "20141210015 JULIO GONCALVES CAMPOS"
+        }
+      ],
+      [
+        {
+          "top": 119.23,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "146"
+        },
+        {
+          "top": 118.93,
+          "left": 86.8,
+          "width": 330.20001220703125,
+          "height": 6.670000076293945,
+          "text": "20181210008 KATHERINE CARDOSO PETULANTE FERNANDES"
+        }
+      ],
+      [
+        {
+          "top": 133.43,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "147"
+        },
+        {
+          "top": 133.23,
+          "left": 86.8,
+          "width": 185.6199951171875,
+          "height": 6.670000076293945,
+          "text": "20151210009 LAIS BRUM CARACIKI"
+        }
+      ],
+      [
+        {
+          "top": 147.73,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "148"
+        },
+        {
+          "top": 147.43,
+          "left": 86.8,
+          "width": 290.739990234375,
+          "height": 6.670000076293945,
+          "text": "20181210010 LARYSSA CASTRO RANGEL DE AZEVEDO"
+        }
+      ],
+      [
+        {
+          "top": 161.93,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "149"
+        },
+        {
+          "top": 161.63,
+          "left": 86.8,
+          "width": 337.3999938964844,
+          "height": 6.670000076293945,
+          "text": "20161210027 LAWRENCE TAVARES DA SILVA REZENDE PONTES"
+        }
+      ],
+      [
+        {
+          "top": 176.14,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "150"
+        },
+        {
+          "top": 175.93,
+          "left": 86.8,
+          "width": 305.0099792480469,
+          "height": 6.670000076293945,
+          "text": "20181210030 LEONARDO AUGUSTO MAGALHAES JARDIM"
+        }
+      ],
+      [
+        {
+          "top": 190.34,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "151"
+        },
+        {
+          "top": 190.13,
+          "left": 86.8,
+          "width": 237.27999877929688,
+          "height": 6.670000076293945,
+          "text": "20172210012 LEONARDO DE LANNA FERRAZ"
+        }
+      ],
+      [
+        {
+          "top": 204.64,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "152"
+        },
+        {
+          "top": 204.33,
+          "left": 86.8,
+          "width": 305.0799865722656,
+          "height": 6.670000076293945,
+          "text": "20141210021 LEONARDO FELIPE MENEZES DOS SANTOS"
+        }
+      ],
+      [
+        {
+          "top": 218.84,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "153"
+        },
+        {
+          "top": 218.53,
+          "left": 86.8,
+          "width": 250.47000122070312,
+          "height": 6.670000076293945,
+          "text": "20181210015 LEONARDO VARTULI NEGREIROS"
+        }
+      ],
+      [
+        {
+          "top": 233.03,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "154"
+        },
+        {
+          "top": 232.83,
+          "left": 86.8,
+          "width": 219.64999389648438,
+          "height": 6.670000076293945,
+          "text": "20152210020 LETICIA SILVERIO MOREIRA"
+        }
+      ],
+      [
+        {
+          "top": 247.34,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "155"
+        },
+        {
+          "top": 247.03,
+          "left": 86.8,
+          "width": 230.02000427246094,
+          "height": 6.670000076293945,
+          "text": "20132210021 Lucas Carvalho de Vasconcellos"
+        }
+      ],
+      [
+        {
+          "top": 261.53,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "156"
+        },
+        {
+          "top": 261.23,
+          "left": 86.8,
+          "width": 178.3000030517578,
+          "height": 6.670000076293945,
+          "text": "20111210024 Lucas Ciarlini Guilhon"
+        }
+      ],
+      [
+        {
+          "top": 275.73,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "157"
+        },
+        {
+          "top": 275.53,
+          "left": 86.8,
+          "width": 220.11000061035156,
+          "height": 6.670000076293945,
+          "text": "20132210026 Lucas dos Santos Nascimento"
+        }
+      ],
+      [
+        {
+          "top": 290.03,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "158"
+        },
+        {
+          "top": 289.73,
+          "left": 86.8,
+          "width": 203.2799835205078,
+          "height": 6.670000076293945,
+          "text": "20122210004 Luis Filipe Oliveira da Silva"
+        }
+      ],
+      [
+        {
+          "top": 304.23,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "159"
+        },
+        {
+          "top": 303.93,
+          "left": 86.8,
+          "width": 230.2899932861328,
+          "height": 6.670000076293945,
+          "text": "20111210025 Luiz Carlos Queiroz Cunha Filho"
+        }
+      ],
+      [
+        {
+          "top": 318.43,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "160"
+        },
+        {
+          "top": 318.23,
+          "left": 86.8,
+          "width": 264.0,
+          "height": 6.670000076293945,
+          "text": "20172210850 Luiz Fernando Carneiro da Cunha Neto"
+        }
+      ],
+      [
+        {
+          "top": 332.64,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "161"
+        },
+        {
+          "top": 332.43,
+          "left": 86.8,
+          "width": 279.8699951171875,
+          "height": 6.670000076293945,
+          "text": "20141210019 LUAN CHRISTIAN DE FREITAS BORGES"
+        }
+      ],
+      [
+        {
+          "top": 346.93,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "162"
+        },
+        {
+          "top": 346.63,
+          "left": 86.8,
+          "width": 203.79998779296875,
+          "height": 6.670000076293945,
+          "text": "20141210001 LUCAS DE ALMEIDA LINS"
+        }
+      ],
+      [
+        {
+          "top": 361.14,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "163"
+        },
+        {
+          "top": 360.83,
+          "left": 86.8,
+          "width": 214.80999755859375,
+          "height": 6.670000076293945,
+          "text": "20152210023 LUCAS DE SOUZA RIBEIRO"
+        }
+      ],
+      [
+        {
+          "top": 375.33,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "164"
+        },
+        {
+          "top": 375.13,
+          "left": 86.8,
+          "width": 227.59999084472656,
+          "height": 6.670000076293945,
+          "text": "20162210011 LUCAS DOS SANTOS FORAIN"
+        }
+      ],
+      [
+        {
+          "top": 389.64,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "165"
+        },
+        {
+          "top": 389.33,
+          "left": 86.8,
+          "width": 266.1700134277344,
+          "height": 6.670000076293945,
+          "text": "20161210028 LUCAS FERREIRA DA SILVA PIMENTA"
+        }
+      ],
+      [
+        {
+          "top": 403.83,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "166"
+        },
+        {
+          "top": 403.53,
+          "left": 86.8,
+          "width": 249.52999877929688,
+          "height": 6.670000076293945,
+          "text": "20161210034 LUCAS GUILHERME DE AZEVEDO"
+        }
+      ],
+      [
+        {
+          "top": 418.04,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "167"
+        },
+        {
+          "top": 417.83,
+          "left": 86.8,
+          "width": 320.3500061035156,
+          "height": 6.670000076293945,
+          "text": "20181210017 LUCAS GUIMARAES DA MOTTA CORREA PINTO"
+        }
+      ],
+      [
+        {
+          "top": 432.23,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "168"
+        },
+        {
+          "top": 432.03,
+          "left": 86.8,
+          "width": 212.58999633789062,
+          "height": 6.670000076293945,
+          "text": "20161210036 LUCAS LOPES DE MORAIS"
+        }
+      ],
+      [
+        {
+          "top": 446.54,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "169"
+        },
+        {
+          "top": 446.23,
+          "left": 86.8,
+          "width": 228.98001098632812,
+          "height": 6.670000076293945,
+          "text": "20161210017 LUCAS MARQUES GONZALEZ"
+        }
+      ],
+      [
+        {
+          "top": 460.73,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "170"
+        },
+        {
+          "top": 460.43,
+          "left": 86.8,
+          "width": 214.30999755859375,
+          "height": 6.670000076293945,
+          "text": "20172210035 LUCAS RAMALHO SOARES"
+        }
+      ],
+      [
+        {
+          "top": 474.93,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "171"
+        },
+        {
+          "top": 474.73,
+          "left": 86.8,
+          "width": 243.5,
+          "height": 6.670000076293945,
+          "text": "20181210011 LUIS DAVI BERTOCHE PINHEIRO"
+        }
+      ],
+      [
+        {
+          "top": 489.23,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "172"
+        },
+        {
+          "top": 488.93,
+          "left": 86.8,
+          "width": 297.54998779296875,
+          "height": 6.670000076293945,
+          "text": "20171210024 LUIS PAULO BRAGA DE OLIVEIRA DA SILVA"
+        }
+      ],
+      [
+        {
+          "top": 503.43,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "173"
+        },
+        {
+          "top": 503.13,
+          "left": 86.8,
+          "width": 211.47000122070312,
+          "height": 6.670000076293945,
+          "text": "20181210018 LUISA COSTA RODRIGUES"
+        }
+      ],
+      [
+        {
+          "top": 517.64,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "174"
+        },
+        {
+          "top": 517.43,
+          "left": 86.8,
+          "width": 230.96998596191406,
+          "height": 6.670000076293945,
+          "text": "20151210019 LUIZ CARLOS DEGOU JUNIOR"
+        }
+      ],
+      [
+        {
+          "top": 531.93,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "175"
+        },
+        {
+          "top": 531.63,
+          "left": 86.8,
+          "width": 275.010009765625,
+          "height": 6.670000076293945,
+          "text": "20172210023 LUIZ FELIPPE BARBOSA NASCIMENTO"
+        }
+      ],
+      [
+        {
+          "top": 546.14,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "176"
+        },
+        {
+          "top": 545.83,
+          "left": 86.8,
+          "width": 298.8699951171875,
+          "height": 6.670000076293945,
+          "text": "20181210099 LUIZA AGOSTINHO ESTEVES DOS SANTOS"
+        }
+      ],
+      [
+        {
+          "top": 560.34,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "177"
+        },
+        {
+          "top": 560.13,
+          "left": 86.8,
+          "width": 231.7899932861328,
+          "height": 6.670000076293945,
+          "text": "20111210026 Maria Das Graças Menezes Leal"
+        }
+      ],
+      [
+        {
+          "top": 574.53,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "178"
+        },
+        {
+          "top": 574.33,
+          "left": 86.8,
+          "width": 200.4199981689453,
+          "height": 6.670000076293945,
+          "text": "20161210037 Mariana Barbosa Azevedo"
+        }
+      ],
+      [
+        {
+          "top": 588.84,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "179"
+        },
+        {
+          "top": 588.53,
+          "left": 86.8,
+          "width": 212.09999084472656,
+          "height": 6.670000076293945,
+          "text": "20122210009 Matheus Augusto de Oliveira"
+        }
+      ],
+      [
+        {
+          "top": 603.03,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "180"
+        },
+        {
+          "top": 602.73,
+          "left": 86.8,
+          "width": 295.82000732421875,
+          "height": 6.670000076293945,
+          "text": "20152210028 MAGNO NASCIMENTO DE AZEVEDO CRUZ"
+        }
+      ],
+      [
+        {
+          "top": 617.23,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "181"
+        },
+        {
+          "top": 617.03,
+          "left": 86.8,
+          "width": 250.66000366210938,
+          "height": 6.670000076293945,
+          "text": "20162210003 MARCELO BRUNO COSTA E SILVA"
+        }
+      ],
+      [
+        {
+          "top": 631.53,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "182"
+        },
+        {
+          "top": 631.23,
+          "left": 86.8,
+          "width": 258.2699890136719,
+          "height": 6.670000076293945,
+          "text": "20171210041 MARCIO BOLOGNESE FERNANDES"
+        }
+      ],
+      [
+        {
+          "top": 645.73,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "183"
+        },
+        {
+          "top": 645.43,
+          "left": 86.8,
+          "width": 295.8599853515625,
+          "height": 6.670000076293945,
+          "text": "20152210010 MARCOS HENRIQUE BASTOS DE SA SILVA"
+        }
+      ],
+      [
+        {
+          "top": 659.93,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "184"
+        },
+        {
+          "top": 659.73,
+          "left": 86.8,
+          "width": 276.7099914550781,
+          "height": 6.670000076293945,
+          "text": "20161210021 MARCOS JOSE MOURA PINHO JUNIOR"
+        }
+      ],
+      [
+        {
+          "top": 674.23,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "185"
+        },
+        {
+          "top": 673.93,
+          "left": 86.8,
+          "width": 246.2899932861328,
+          "height": 6.670000076293945,
+          "text": "20172210026 MARCOS VINICIUS MARINHO GIL"
+        }
+      ],
+      [
+        {
+          "top": 688.43,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "186"
+        },
+        {
+          "top": 688.13,
+          "left": 86.8,
+          "width": 221.67999267578125,
+          "height": 6.670000076293945,
+          "text": "20152210027 MARIA LUIZA LOPES E SILVA"
+        }
+      ],
+      [
+        {
+          "top": 702.64,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "187"
+        },
+        {
+          "top": 702.43,
+          "left": 86.8,
+          "width": 235.57998657226562,
+          "height": 6.670000076293945,
+          "text": "20152210019 MARIANA CARDOSO PINHEIRO"
+        }
+      ],
+      [
+        {
+          "top": 716.84,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "188"
+        },
+        {
+          "top": 716.63,
+          "left": 86.8,
+          "width": 233.16000366210938,
+          "height": 6.670000076293945,
+          "text": "20161210007 MARIANA SOUZA DE OLIVEIRA"
+        }
+      ],
+      [
+        {
+          "top": 731.14,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "189"
+        },
+        {
+          "top": 730.83,
+          "left": 86.8,
+          "width": 233.45999145507812,
+          "height": 6.670000076293945,
+          "text": "20141210029 MARINA SARTORI FILGUEIRAS"
+        }
+      ],
+      [
+        {
+          "top": 745.34,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "190"
+        },
+        {
+          "top": 745.03,
+          "left": 86.8,
+          "width": 254.69000244140625,
+          "height": 6.670000076293945,
+          "text": "20152210014 MATEUS DOS SANTOS DORNELES"
+        }
+      ]
+    ]
+  },
+  {
+    "extraction_method": "stream",
+    "top": 0.0,
+    "left": 0.0,
+    "width": 422.3800048828125,
+    "height": 751.7000122070312,
+    "data": [
+      [
+        {
+          "top": 76.53,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "191"
+        },
+        {
+          "top": 76.23,
+          "left": 86.8,
+          "width": 293.44000244140625,
+          "height": 6.670000076293945,
+          "text": "20172210043 MATEUS ESCOVINO LAMBRANHO RAMOS"
+        }
+      ],
+      [
+        {
+          "top": 90.73,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "192"
+        },
+        {
+          "top": 90.53,
+          "left": 86.8,
+          "width": 301.1099853515625,
+          "height": 6.670000076293945,
+          "text": "20181210013 MATEUS TEIXEIRA BANDEIRA DE ALBERTIN"
+        }
+      ],
+      [
+        {
+          "top": 105.03,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "193"
+        },
+        {
+          "top": 104.73,
+          "left": 86.8,
+          "width": 285.0400085449219,
+          "height": 6.670000076293945,
+          "text": "20171210005 MATHEUS CARVALHO GOMES MOREIRA"
+        }
+      ],
+      [
+        {
+          "top": 119.23,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "194"
+        },
+        {
+          "top": 118.93,
+          "left": 86.8,
+          "width": 245.60000610351562,
+          "height": 6.670000076293945,
+          "text": "20152210035 MATHEUS DE CASTRO LANDRINI"
+        }
+      ],
+      [
+        {
+          "top": 133.43,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "195"
+        },
+        {
+          "top": 133.23,
+          "left": 86.8,
+          "width": 254.08999633789062,
+          "height": 6.670000076293945,
+          "text": "20151210015 MATHEUS FERNANDES DE SOUZA"
+        }
+      ],
+      [
+        {
+          "top": 147.73,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "196"
+        },
+        {
+          "top": 147.43,
+          "left": 86.8,
+          "width": 236.57000732421875,
+          "height": 6.670000076293945,
+          "text": "20172210003 MATHEUS OLIVEIRA DE SOUZA"
+        }
+      ],
+      [
+        {
+          "top": 161.93,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "197"
+        },
+        {
+          "top": 161.63,
+          "left": 86.8,
+          "width": 223.65000915527344,
+          "height": 6.670000076293945,
+          "text": "20121210005 Michel Augusto Queiroz Morais"
+        }
+      ],
+      [
+        {
+          "top": 176.14,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "198"
+        },
+        {
+          "top": 175.93,
+          "left": 86.8,
+          "width": 256.05999755859375,
+          "height": 6.670000076293945,
+          "text": "20161210026 MICHEL DAVI BUSQUET DE SOUSA"
+        }
+      ],
+      [
+        {
+          "top": 190.34,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "199"
+        },
+        {
+          "top": 190.13,
+          "left": 86.8,
+          "width": 275.95001220703125,
+          "height": 6.670000076293945,
+          "text": "20161210035 MILA SOARES DE OLIVEIRA DE SOUZA"
+        }
+      ],
+      [
+        {
+          "top": 204.64,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "200"
+        },
+        {
+          "top": 204.33,
+          "left": 86.8,
+          "width": 177.8000030517578,
+          "height": 6.670000076293945,
+          "text": "20122210024 Natália Dias da Costa"
+        }
+      ],
+      [
+        {
+          "top": 218.84,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "201"
+        },
+        {
+          "top": 218.53,
+          "left": 86.8,
+          "width": 194.8300018310547,
+          "height": 6.670000076293945,
+          "text": "20131210019 Paula Dias de Figueiredo"
+        }
+      ],
+      [
+        {
+          "top": 233.03,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "202"
+        },
+        {
+          "top": 232.83,
+          "left": 86.8,
+          "width": 208.1300048828125,
+          "height": 6.670000076293945,
+          "text": "20141210012 PAMELLA SANTOS ALFAIA"
+        }
+      ],
+      [
+        {
+          "top": 247.34,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "203"
+        },
+        {
+          "top": 247.03,
+          "left": 86.8,
+          "width": 253.05999755859375,
+          "height": 6.670000076293945,
+          "text": "20152210030 PATRICIA DE SOUZA DOS SANTOS"
+        }
+      ],
+      [
+        {
+          "top": 261.53,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "204"
+        },
+        {
+          "top": 261.23,
+          "left": 86.8,
+          "width": 249.510009765625,
+          "height": 6.670000076293945,
+          "text": "20152210025 PAULO GABRIEL ALVES FONTANA"
+        }
+      ],
+      [
+        {
+          "top": 275.73,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "205"
+        },
+        {
+          "top": 275.53,
+          "left": 86.8,
+          "width": 280.54998779296875,
+          "height": 6.670000076293945,
+          "text": "20162210036 PAULO HENRIQUE MARQUES MADEIRA"
+        }
+      ],
+      [
+        {
+          "top": 290.03,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "206"
+        },
+        {
+          "top": 289.73,
+          "left": 86.8,
+          "width": 289.79998779296875,
+          "height": 6.670000076293945,
+          "text": "20162210024 PAULO ROBERTO DE SOUZA SCALERCIO"
+        }
+      ],
+      [
+        {
+          "top": 304.23,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "207"
+        },
+        {
+          "top": 303.93,
+          "left": 86.8,
+          "width": 243.1799774169922,
+          "height": 6.670000076293945,
+          "text": "20131210030 Pedro Arthur Rangel Linhares Lima"
+        }
+      ],
+      [
+        {
+          "top": 318.43,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "208"
+        },
+        {
+          "top": 318.23,
+          "left": 86.8,
+          "width": 214.5399932861328,
+          "height": 6.670000076293945,
+          "text": "20161210008 Pedro Henrique Mendes Leal"
+        }
+      ],
+      [
+        {
+          "top": 332.64,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "209"
+        },
+        {
+          "top": 332.43,
+          "left": 86.8,
+          "width": 286.57000732421875,
+          "height": 6.670000076293945,
+          "text": "20172210031 PEDRO HENRIQUE SENNA DOS SANTOS"
+        }
+      ],
+      [
+        {
+          "top": 346.93,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "210"
+        },
+        {
+          "top": 346.63,
+          "left": 86.8,
+          "width": 235.5,
+          "height": 6.670000076293945,
+          "text": "20162210031 PEDRO MAIA CASTRO ARAUJO"
+        }
+      ],
+      [
+        {
+          "top": 361.14,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "211"
+        },
+        {
+          "top": 360.83,
+          "left": 86.8,
+          "width": 271.1000061035156,
+          "height": 6.670000076293945,
+          "text": "20171210030 PEDRO PAULO ARAUJO DE ANDRADE"
+        }
+      ],
+      [
+        {
+          "top": 375.33,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "212"
+        },
+        {
+          "top": 375.13,
+          "left": 86.8,
+          "width": 289.6000061035156,
+          "height": 6.670000076293945,
+          "text": "20152210018 PILLAR BENEDETTI VASCONCELLOS LUZ"
+        }
+      ],
+      [
+        {
+          "top": 389.64,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "213"
+        },
+        {
+          "top": 389.33,
+          "left": 86.8,
+          "width": 167.85000610351562,
+          "height": 6.670000076293945,
+          "text": "20131210034 Priscila Coelho Dair"
+        }
+      ],
+      [
+        {
+          "top": 403.83,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "214"
+        },
+        {
+          "top": 403.53,
+          "left": 86.8,
+          "width": 217.50999450683594,
+          "height": 6.670000076293945,
+          "text": "20162210037 Quezia Magalhães da Silveira"
+        }
+      ],
+      [
+        {
+          "top": 418.04,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "215"
+        },
+        {
+          "top": 417.83,
+          "left": 86.8,
+          "width": 185.6799774169922,
+          "height": 6.670000076293945,
+          "text": "20102210025 Rafael da Silva Oliveira"
+        }
+      ],
+      [
+        {
+          "top": 432.23,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "216"
+        },
+        {
+          "top": 432.03,
+          "left": 86.8,
+          "width": 210.0800018310547,
+          "height": 6.670000076293945,
+          "text": "20132210034 Rafael Lima da Silva Ribeiro"
+        }
+      ],
+      [
+        {
+          "top": 446.54,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "217"
+        },
+        {
+          "top": 446.23,
+          "left": 86.8,
+          "width": 231.83998107910156,
+          "height": 6.670000076293945,
+          "text": "20112210028 Raquel Godoy Thiele de Almeida"
+        }
+      ],
+      [
+        {
+          "top": 460.73,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "218"
+        },
+        {
+          "top": 460.43,
+          "left": 86.8,
+          "width": 300.8899841308594,
+          "height": 6.670000076293945,
+          "text": "20171210001 RAFAEL CANTANHEDE VENTURA SIQUEIRA"
+        }
+      ],
+      [
+        {
+          "top": 474.93,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "219"
+        },
+        {
+          "top": 474.73,
+          "left": 86.8,
+          "width": 205.47000122070312,
+          "height": 6.670000076293945,
+          "text": "20181210014 RAFAEL MOTA DE SOUZA"
+        }
+      ],
+      [
+        {
+          "top": 489.23,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "220"
+        },
+        {
+          "top": 488.93,
+          "left": 86.8,
+          "width": 215.75,
+          "height": 6.670000076293945,
+          "text": "20151210001 RAFAEL SALAZAR STAVALE"
+        }
+      ],
+      [
+        {
+          "top": 503.43,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "221"
+        },
+        {
+          "top": 503.13,
+          "left": 86.8,
+          "width": 298.010009765625,
+          "height": 6.670000076293945,
+          "text": "20181210031 RAYANNE ADJENE GONCALVES DE SOUZA"
+        }
+      ],
+      [
+        {
+          "top": 517.64,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "222"
+        },
+        {
+          "top": 517.43,
+          "left": 86.8,
+          "width": 220.0,
+          "height": 6.670000076293945,
+          "text": "20171210032 RAYANNE DA SILVA SANTOS"
+        }
+      ],
+      [
+        {
+          "top": 531.93,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "223"
+        },
+        {
+          "top": 531.63,
+          "left": 86.8,
+          "width": 252.4199981689453,
+          "height": 6.670000076293945,
+          "text": "20132210008 Rebecca da Cruz Fernandes Pantoja"
+        }
+      ],
+      [
+        {
+          "top": 546.14,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "224"
+        },
+        {
+          "top": 545.83,
+          "left": 86.8,
+          "width": 223.989990234375,
+          "height": 6.670000076293945,
+          "text": "20171210011 RENAN MADEIRO HATHERLY"
+        }
+      ],
+      [
+        {
+          "top": 560.34,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "225"
+        },
+        {
+          "top": 560.13,
+          "left": 86.8,
+          "width": 288.4100036621094,
+          "height": 6.670000076293945,
+          "text": "20151210010 RENARD SEBASTIAN PESSOA FERREIRA"
+        }
+      ],
+      [
+        {
+          "top": 574.53,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "226"
+        },
+        {
+          "top": 574.33,
+          "left": 86.8,
+          "width": 316.8199768066406,
+          "height": 6.670000076293945,
+          "text": "20142210003 RENATA EMANUELLE VASCONCELLOS ANHON"
+        }
+      ],
+      [
+        {
+          "top": 588.84,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "227"
+        },
+        {
+          "top": 588.53,
+          "left": 86.8,
+          "width": 280.7099914550781,
+          "height": 6.670000076293945,
+          "text": "20162210038 RENATO ALEXANDRE DE DEUS JUNIOR"
+        }
+      ],
+      [
+        {
+          "top": 603.03,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "228"
+        },
+        {
+          "top": 602.73,
+          "left": 86.8,
+          "width": 284.7699890136719,
+          "height": 6.670000076293945,
+          "text": "20162210002 RENNAN DANIEL ALMEIDA DOS SANTOS"
+        }
+      ],
+      [
+        {
+          "top": 617.23,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "229"
+        },
+        {
+          "top": 617.03,
+          "left": 86.8,
+          "width": 228.5800018310547,
+          "height": 6.670000076293945,
+          "text": "20161210006 Rita de Cassia Menezes Soares"
+        }
+      ],
+      [
+        {
+          "top": 631.53,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "230"
+        },
+        {
+          "top": 631.23,
+          "left": 86.8,
+          "width": 335.5799865722656,
+          "height": 6.670000076293945,
+          "text": "20142210004 RICARDO AUGUSTO BLEI SANT ANNA DAS NEVES"
+        }
+      ],
+      [
+        {
+          "top": 645.73,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "231"
+        },
+        {
+          "top": 645.43,
+          "left": 86.8,
+          "width": 255.67001342773438,
+          "height": 6.670000076293945,
+          "text": "20151210017 RICARDO DOS SANTOS BRAMBILA"
+        }
+      ],
+      [
+        {
+          "top": 659.93,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "232"
+        },
+        {
+          "top": 659.73,
+          "left": 86.8,
+          "width": 180.9399871826172,
+          "height": 6.670000076293945,
+          "text": "20162210022 Rodrigo Gomes Cezar"
+        }
+      ],
+      [
+        {
+          "top": 674.23,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "233"
+        },
+        {
+          "top": 673.93,
+          "left": 86.8,
+          "width": 244.3300018310547,
+          "height": 6.670000076293945,
+          "text": "20112210032 Rodrigo Henrique de Souza Amaral"
+        }
+      ],
+      [
+        {
+          "top": 688.43,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "234"
+        },
+        {
+          "top": 688.13,
+          "left": 86.8,
+          "width": 197.99000549316406,
+          "height": 6.670000076293945,
+          "text": "20132210016 Rodrigo Marques da Silva"
+        }
+      ],
+      [
+        {
+          "top": 702.64,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "235"
+        },
+        {
+          "top": 702.43,
+          "left": 86.8,
+          "width": 191.8099822998047,
+          "height": 6.670000076293945,
+          "text": "20101210024 Rodrigo Phídias da Silva"
+        }
+      ],
+      [
+        {
+          "top": 716.84,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "236"
+        },
+        {
+          "top": 716.63,
+          "left": 86.8,
+          "width": 240.1699981689453,
+          "height": 6.670000076293945,
+          "text": "20132210700 Rogério Marcos de Farias da Silva"
+        }
+      ],
+      [
+        {
+          "top": 731.14,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "237"
+        },
+        {
+          "top": 730.83,
+          "left": 86.8,
+          "width": 256.3699951171875,
+          "height": 6.670000076293945,
+          "text": "20162210018 ROBERTA DIAS RICARDO PEREIRA"
+        }
+      ],
+      [
+        {
+          "top": 745.34,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "238"
+        },
+        {
+          "top": 745.03,
+          "left": 86.8,
+          "width": 291.4800109863281,
+          "height": 6.670000076293945,
+          "text": "20181210012 ROBERTO BELLO BARBOSA DE OLIVEIRA"
+        }
+      ]
+    ]
+  },
+  {
+    "extraction_method": "stream",
+    "top": 0.0,
+    "left": 0.0,
+    "width": 389.46002197265625,
+    "height": 552.5,
+    "data": [
+      [
+        {
+          "top": 76.53,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "239"
+        },
+        {
+          "top": 76.23,
+          "left": 86.8,
+          "width": 276.17999267578125,
+          "height": 6.670000076293945,
+          "text": "20171210004 ROBSON ALEXANDRE DA ROCHA REIS"
+        }
+      ],
+      [
+        {
+          "top": 90.73,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "240"
+        },
+        {
+          "top": 90.53,
+          "left": 86.8,
+          "width": 233.44000244140625,
+          "height": 6.670000076293945,
+          "text": "20181210001 RODRIGO CIRNE DE OLIVEIRA"
+        }
+      ],
+      [
+        {
+          "top": 105.03,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "241"
+        },
+        {
+          "top": 104.73,
+          "left": 86.8,
+          "width": 252.83999633789062,
+          "height": 6.670000076293945,
+          "text": "20142210017 RODRIGO DOS SANTOS OLIVEIRA"
+        }
+      ],
+      [
+        {
+          "top": 119.23,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "242"
+        },
+        {
+          "top": 118.93,
+          "left": 86.8,
+          "width": 240.04998779296875,
+          "height": 6.670000076293945,
+          "text": "20181210007 RODRIGO LUIZ DA SILVA LOPES"
+        }
+      ],
+      [
+        {
+          "top": 133.43,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "243"
+        },
+        {
+          "top": 133.23,
+          "left": 86.8,
+          "width": 204.85000610351562,
+          "height": 6.670000076293945,
+          "text": "20142210026 RODRIGO RIBEIRO SILVA"
+        }
+      ],
+      [
+        {
+          "top": 147.73,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "244"
+        },
+        {
+          "top": 147.43,
+          "left": 86.8,
+          "width": 181.47000122070312,
+          "height": 6.670000076293945,
+          "text": "20181210003 ROMAN GRISHANOV"
+        }
+      ],
+      [
+        {
+          "top": 161.93,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "245"
+        },
+        {
+          "top": 161.63,
+          "left": 86.8,
+          "width": 267.8399963378906,
+          "height": 6.670000076293945,
+          "text": "20151210007 ROMULO LUIZ MENDONCA DE BRITO"
+        }
+      ],
+      [
+        {
+          "top": 176.14,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "246"
+        },
+        {
+          "top": 175.93,
+          "left": 86.8,
+          "width": 248.19000244140625,
+          "height": 6.670000076293945,
+          "text": "20151210022 SABRINA LAPA DA COSTA E SILVA"
+        }
+      ],
+      [
+        {
+          "top": 190.34,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "247"
+        },
+        {
+          "top": 190.13,
+          "left": 86.8,
+          "width": 179.1799774169922,
+          "height": 6.670000076293945,
+          "text": "20131210006 Thais Mester Barbosa"
+        }
+      ],
+      [
+        {
+          "top": 204.64,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "248"
+        },
+        {
+          "top": 204.33,
+          "left": 86.8,
+          "width": 180.2899932861328,
+          "height": 6.670000076293945,
+          "text": "20122210028 Thiago Marçal Passos"
+        }
+      ],
+      [
+        {
+          "top": 218.84,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "249"
+        },
+        {
+          "top": 218.53,
+          "left": 86.8,
+          "width": 267.67999267578125,
+          "height": 6.670000076293945,
+          "text": "20142210002 THAIS DE SOUZA DELUCA FERREIRA"
+        }
+      ],
+      [
+        {
+          "top": 233.03,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "250"
+        },
+        {
+          "top": 232.83,
+          "left": 86.8,
+          "width": 208.26998901367188,
+          "height": 6.670000076293945,
+          "text": "20151210024 THAIS DE SOUZA SIMÕES"
+        }
+      ],
+      [
+        {
+          "top": 247.34,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "251"
+        },
+        {
+          "top": 247.03,
+          "left": 86.8,
+          "width": 247.3599853515625,
+          "height": 6.670000076293945,
+          "text": "20142210024 THIAGO ALBUQUERQUE DE LIMA"
+        }
+      ],
+      [
+        {
+          "top": 261.53,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "252"
+        },
+        {
+          "top": 261.23,
+          "left": 86.8,
+          "width": 302.6600036621094,
+          "height": 6.670000076293945,
+          "text": "20171210034 THIAGO DE ARAUJO SEVERO DOS SANTOS"
+        }
+      ],
+      [
+        {
+          "top": 275.73,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "253"
+        },
+        {
+          "top": 275.53,
+          "left": 86.8,
+          "width": 239.57000732421875,
+          "height": 6.670000076293945,
+          "text": "20172210024 THIAGO DE MOURA PARRACHO"
+        }
+      ],
+      [
+        {
+          "top": 290.03,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "254"
+        },
+        {
+          "top": 289.73,
+          "left": 86.8,
+          "width": 215.76998901367188,
+          "height": 6.670000076293945,
+          "text": "20172210005 THIAGO TARDIN DE SOUZA"
+        }
+      ],
+      [
+        {
+          "top": 304.23,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "255"
+        },
+        {
+          "top": 303.93,
+          "left": 86.8,
+          "width": 237.66000366210938,
+          "height": 6.670000076293945,
+          "text": "20142210006 TIAGO RIBEIRO DA SILVA MELO"
+        }
+      ],
+      [
+        {
+          "top": 318.43,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "256"
+        },
+        {
+          "top": 318.23,
+          "left": 86.8,
+          "width": 236.82000732421875,
+          "height": 6.670000076293945,
+          "text": "20161210029 TOMAS SEPULVEDA MACHADO"
+        }
+      ],
+      [
+        {
+          "top": 332.64,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "257"
+        },
+        {
+          "top": 332.43,
+          "left": 86.8,
+          "width": 292.7799987792969,
+          "height": 6.670000076293945,
+          "text": "20172210008 ULYSSES BARBOSA GOMES DE OLIVEIRA"
+        }
+      ],
+      [
+        {
+          "top": 346.93,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "258"
+        },
+        {
+          "top": 346.63,
+          "left": 86.8,
+          "width": 190.5800018310547,
+          "height": 6.670000076293945,
+          "text": "20172210013 Umberto Maiolino Bloise"
+        }
+      ],
+      [
+        {
+          "top": 361.14,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "259"
+        },
+        {
+          "top": 360.83,
+          "left": 86.8,
+          "width": 221.1199951171875,
+          "height": 6.670000076293945,
+          "text": "20161210019 VANESSA GUEDES DA SILVA"
+        }
+      ],
+      [
+        {
+          "top": 375.33,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "260"
+        },
+        {
+          "top": 375.13,
+          "left": 86.8,
+          "width": 168.52999877929688,
+          "height": 6.670000076293945,
+          "text": "20131210037 Victor Garcia Farias"
+        }
+      ],
+      [
+        {
+          "top": 389.64,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "261"
+        },
+        {
+          "top": 389.33,
+          "left": 86.8,
+          "width": 257.969970703125,
+          "height": 6.670000076293945,
+          "text": "20142210032 VICTOR AGUIAR SOUZA SPRINGER"
+        }
+      ],
+      [
+        {
+          "top": 403.83,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "262"
+        },
+        {
+          "top": 403.53,
+          "left": 86.8,
+          "width": 279.260009765625,
+          "height": 6.670000076293945,
+          "text": "20161210014 VICTOR CEZAR GUSMAO DE ANDRADE"
+        }
+      ],
+      [
+        {
+          "top": 418.04,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "263"
+        },
+        {
+          "top": 417.83,
+          "left": 86.8,
+          "width": 232.79000854492188,
+          "height": 6.670000076293945,
+          "text": "20151210006 VICTOR CORREA FERNANDES"
+        }
+      ],
+      [
+        {
+          "top": 432.23,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "264"
+        },
+        {
+          "top": 432.03,
+          "left": 86.8,
+          "width": 274.6300048828125,
+          "height": 6.670000076293945,
+          "text": "20171210033 VICTOR HUGO MARQUES ROSA LEITE"
+        }
+      ],
+      [
+        {
+          "top": 446.54,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "265"
+        },
+        {
+          "top": 446.23,
+          "left": 86.8,
+          "width": 220.30999755859375,
+          "height": 6.670000076293945,
+          "text": "20171210012 VICTOR HUGO SOUZA WIRZ"
+        }
+      ],
+      [
+        {
+          "top": 460.73,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "266"
+        },
+        {
+          "top": 460.43,
+          "left": 86.8,
+          "width": 269.739990234375,
+          "height": 6.670000076293945,
+          "text": "20152210032 VINICIUS CONDINA DE ABREU E LIMA"
+        }
+      ],
+      [
+        {
+          "top": 474.93,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "267"
+        },
+        {
+          "top": 474.73,
+          "left": 86.8,
+          "width": 221.75999450683594,
+          "height": 6.670000076293945,
+          "text": "20152210031 VINICIUS MARQUES ZAMITH"
+        }
+      ],
+      [
+        {
+          "top": 489.23,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "268"
+        },
+        {
+          "top": 488.93,
+          "left": 86.8,
+          "width": 299.6099853515625,
+          "height": 6.670000076293945,
+          "text": "20141210014 VIVIAN BITTENCOURT POETZSCHER YUAN"
+        }
+      ],
+      [
+        {
+          "top": 503.43,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "269"
+        },
+        {
+          "top": 503.13,
+          "left": 86.8,
+          "width": 240.010009765625,
+          "height": 6.670000076293945,
+          "text": "20151210027 WALTER FELIX SODRE TORRES"
+        }
+      ],
+      [
+        {
+          "top": 517.64,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "270"
+        },
+        {
+          "top": 517.43,
+          "left": 86.8,
+          "width": 214.38998413085938,
+          "height": 6.670000076293945,
+          "text": "20162210019 WESLEY DA SILVA SANTOS"
+        }
+      ],
+      [
+        {
+          "top": 531.93,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "271"
+        },
+        {
+          "top": 531.63,
+          "left": 86.8,
+          "width": 266.44000244140625,
+          "height": 6.670000076293945,
+          "text": "20132210027 YGOR ALEXANDER BESSA LACERDA"
+        }
+      ],
+      [
+        {
+          "top": 546.14,
+          "left": 60.2,
+          "width": 18.19424057006836,
+          "height": 6.070000171661377,
+          "text": "272"
+        },
+        {
+          "top": 545.83,
+          "left": 86.8,
+          "width": 188.39999389648438,
+          "height": 6.670000076293945,
+          "text": "20171210040 YURI FARIAS ARRUDA"
+        }
+      ]
+    ]
+  }
+]
