@@ -8,6 +8,7 @@ pages_brute_data = []
 brute_data_fragments = []
 fragment_pieces = []
 students = []
+filtered_json = []
 
 for x in range(len(data)):
   pages.append(data[x])
@@ -32,6 +33,16 @@ for x in range(len(fragment_pieces)):
   if(len(piece['text']) > 16):
     students.append(piece['text'])
 
-print(students)
-print(len(students))
+for x in range(len(students)):
+  student = students[x].split(" ", 1)
+  student_json = { "matricula":" ", "nome":" " }
+  student_json['matricula'] = student[0]
+  student_json['nome'] = student[1]
+  filtered_json.append(student_json)
+
+print(filtered_json)
+print("alunos: "+str(len(students)))
+
+with open("filtered_data_file.json", "w") as data_file:
+  json.dump(filtered_json, data_file, indent=2)
 
