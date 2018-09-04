@@ -6,6 +6,8 @@ Uma API graphql simples para disponibilizar nome e matricula dos alunos de BSI d
 TODO
 
 # How to run
+Primeiro, crie um banco de dados postgresql e importe os dados para o banco, configure no `psqlAdapter.js`, o banco deve possuir uma tabela `Alunos` com colunas: matricula - bigint(not null e primary key) e nome - text(not null).
+
 - Install [node](https://nodejs.org/en/)
 - Install [yarn](https://yarnpkg.com/)
 - Run `yarn install` in the folder.
